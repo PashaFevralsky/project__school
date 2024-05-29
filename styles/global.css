@@ -7,10 +7,17 @@
 	--color-bg-medium: #1e1f29;
 	--color-bg-light: #2e2d3d;
 	--color-stroke: #4d5064;
+	--color-footer: #101114;
+	--color-secondary: #e47ad5;
 	--gradient: linear-gradient(93deg, #D77BE5 9.26%, #BE63E5 42.32%, #6C38CC 104.58%);
 	--layout-width: 1172px;
+	--border-5: 5px;
 	--border-8: 8px;
 	--border-10: 10px;
+}
+
+* {
+	box-sizing: border-box;
 }
 
 body {
